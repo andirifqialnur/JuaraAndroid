@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_accompaniment_menu.xml",
+        "source": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\src\\main\\res\\layout\\fragment_accompaniment_menu.xml"
+    },
+    {
+        "merged": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_entree_menu.xml",
+        "source": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\src\\main\\res\\layout\\fragment_entree_menu.xml"
+    },
+    {
+        "merged": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_checkout.xml",
+        "source": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\src\\main\\res\\layout\\fragment_checkout.xml"
+    },
+    {
+        "merged": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_side_menu.xml",
+        "source": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\src\\main\\res\\layout\\fragment_side_menu.xml"
+    },
+    {
+        "merged": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_start_order.xml",
+        "source": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\src\\main\\res\\layout\\fragment_start_order.xml"
+    },
+    {
+        "merged": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Juara Android\\MyJuaraAndroid\\lunch-tray-app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
